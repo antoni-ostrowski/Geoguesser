@@ -1,5 +1,11 @@
-# Geoguesser
+# Small Geoguesser game
 
-Gra polega na zgadywaniu położenia wylosowanego kraju/stanu, tryby gry: europa, cały świat, stany USA. Gra stworzona przy użyciu Leaflet.js oraz map geojson.
+Little game about guessing a country/state/region from name. Made with vanilla js and geojson as one of my first projects ever.
 
-Geoguesser 1.5: new game mode: województwa
+# Modes
+- Europe
+- World
+- Usa states
+- Poland regions
+
+  
